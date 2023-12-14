@@ -1,2 +1,2 @@
-# 3DPacManGame
-3D Pac-Man Game
+# 3DSuperMarioGame
+3D Super Mario Game
