@@ -1,6 +1,6 @@
 # 🎮 3D Super Mario Game
 
-Inspired by the Original Super Mario Game, I made my own. My 3D Super Mario Game is a single level 3D adventure where the main character collects coins and avoids obstacles in a custom designed game world. Built for fun and challenge, the game features smooth movement controls, real-time feedback, and win/lose conditions.
+Inspired by the Original Super Mario Game, I made my own. I created this project in Fall 2023 using C# and Unity. My 3D Super Mario Game is a single level 3D adventure where the main character collects coins and avoids obstacles in a custom designed game world. Built for fun and challenge, the game features smooth movement controls, real-time feedback, and win/lose conditions.
 
 ## 🧍 Main Character
 
